@@ -14,6 +14,7 @@ This repository contains a **Tic Tac Toe game** implemented in Python using the 
 - Real-time win/tie detection with color-coded highlights.
 - Intuitive and aesthetic user interface.
 - Randomized player start.
+## Screenshots from the game:
 -![image](https://github.com/user-attachments/assets/52084719-dc27-4ecc-b966-de5f1c49b79f)
 -![image](https://github.com/user-attachments/assets/8f38e3a7-2bcf-4724-98ae-49df2c3344ea)
 
