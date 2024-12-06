@@ -1,5 +1,4 @@
 # Tic-Tac-Toe-using-Python
-# Tic-Tac-Toe-using-Python
 This repository contains a **Tic Tac Toe game** implemented in Python using the Tkinter library for the graphical user interface (GUI).
 
 ## Project Overview
