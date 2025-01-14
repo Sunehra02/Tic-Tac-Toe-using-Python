@@ -15,8 +15,9 @@ This repository contains a **Tic Tac Toe game** implemented in Python using the 
 - Intuitive and aesthetic user interface.
 - Randomized player start.
 ## Screenshots from the game:
--![image](https://github.com/user-attachments/assets/52084719-dc27-4ecc-b966-de5f1c49b79f)
--![image](https://github.com/user-attachments/assets/8f38e3a7-2bcf-4724-98ae-49df2c3344ea)
+- ![image](https://github.com/user-attachments/assets/15aa129d-6be3-49dd-900a-9480a6596fb9)
+- ![image](https://github.com/user-attachments/assets/2c189ec9-62dd-4faa-b6fb-b66f7163e403)
+
 
 
 
