@@ -62,7 +62,7 @@ def update_scoreboard():
 
 window = tk.Tk()
 window.title("Tic Tac Toe - Fun Edition")
-window.configure(bg="#D9CBD6")
+window.configure(bg="#71b2c1")
 
 players = ["X", "O"]
 player = random.choice(players)
@@ -77,7 +77,7 @@ win_conditions = [
 
 scores = {"X": 0, "O": 0, "Tie": 0}
 
-label = tk.Label(text=f"{player}'s Turn", font=('Arial', 24, 'bold'), bg="#D9CBD6", fg="#0A1533")
+label = tk.Label(text=f"{player}'s Turn", font=('Arial', 24, 'bold'), bg="#71b2c1", fg="#0A1533")
 label.pack()
 
 scoreboard_label = tk.Label(
@@ -85,7 +85,7 @@ scoreboard_label = tk.Label(
     bg="#2B1B2D", fg="white")
 scoreboard_label.pack()
 
-frame = tk.Frame(window, bg="#D9CBD6")
+frame = tk.Frame(window, bg="#71b2c1")
 frame.pack()
 
 for row in range(3):
